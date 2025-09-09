@@ -9,6 +9,13 @@ A Streamlit-based web application that predicts whether an employee's salary exc
 
 ---
 
+## 🔗 Website URL
+
+[🌐 PayPredictor](https://paypredictorai.streamlit.app/)
+
+---
+
+
 ## 📌 Overview
 
 **PayPredictor** is an intelligent machine learning system designed to predict an individual's income class (`>50K` or `<=50K`) based on input features such as age, education, occupation, and working hours. The model is trained on the UCI Adult dataset and deployed using **Streamlit Cloud**.
